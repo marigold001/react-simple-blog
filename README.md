@@ -1,3 +1,3 @@
 # react-simple-blog
 
-A Simple Blog Component Writen In React
+A simple blog writen in React
